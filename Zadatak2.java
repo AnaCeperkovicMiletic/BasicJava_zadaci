@@ -15,7 +15,7 @@ public class Zadatak2 {
 		a = ulaz.nextInt();
 		b = ulaz.nextInt();
 
-		System.out.println("Unesite operaciju (‘s’ – sabiranje, ‘o’ – oduzimanje, ‘m’ – množenje, ‘d’ – deljenje, ‘e’ - izlaz).");
+		System.out.println("Unesite operaciju (â€˜sâ€™ â€“ sabiranje, â€˜oâ€™ â€“ oduzimanje, â€˜mâ€™ â€“ mnoÅ¾enje, â€˜dâ€™ â€“ deljenje, â€˜eâ€™ - izlaz).");
 
 		operacija = ulaz.next();
 
@@ -34,6 +34,7 @@ public class Zadatak2 {
 		case "d":
 			rezultat = a / b;
 			break;
+		default: System.out.println("Nepostojeca operacija!");
 		}
 		System.out.println("Rezultat je: " + rezultat);
 	}
