@@ -1,0 +1,5 @@
+Ime i prezime studenta: Oliver Stankov Broj poena: 90 Ocena: 9
+Ime i prezime studenta: Lazar Ivanovic Broj poena: 78 Ocena: 8
+Ime i prezime studenta: Mila Krist Broj poena: 69 Ocena: 7
+Ime i prezime studenta: Gordana Vlajkovic Broj poena: 62 Ocena: 7
+Ime i prezime studenta: Danijela Erak Broj poena: 44 Ocena: 5
